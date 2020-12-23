@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-513281-now-experience-dashboard": {
+			"uiBuilder": {
+                "associatedTypes": ["global.core"],
+                "label": "Now Task Dashboard",
+                "icon": "chart-forecast-fill",
+                "description": "A task dashboard component"
+            },
+	        "innerComponents": []
+	    }
+	},
+	"scopeName": "x_513281_now_exp_0"
+}
